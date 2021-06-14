@@ -5,7 +5,7 @@
 ### Italo Silva Guanilo
 El trabajo actual consta de un entrenamiento de una data muy amplia la cual fue sometida a diferentes métodos de entrenamiento para asi poder encontrar el que se adapte mejor al 
 caso, para la lectura de documentos se debe usar el siguiente orden:
-* Caega de datos
+* Carga de datos
 * Procesamiento
 * Entrenamiento
 * ParteFinal
