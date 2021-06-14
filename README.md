@@ -3,12 +3,14 @@
 ### Kevin Paima Mijahuanca
 ### Stefano Olivieri Romero
 ### Italo Silva Guanilo
-El trabajo actual consta de un entrenamiento de una data muy amplia la cual fue sometida a diferentes métodos de entrenamiento para asi poder encontrar el que se adapte mejor al 
-caso, para la lectura de documentos se debe usar el siguiente orden:
+El trabajo actual consta de un entrenamiento de una data muy amplia la cual fue sometida a diferentes métodos de entrenamiento para asi poder encontrar el que se adapte mejor al caso, para la lectura de documentos se debe usar el siguiente orden:
 * Carga de datos
 * Procesamiento
 * Entrenamiento
 * ParteFinal
+
+Los datos depurados se encuentran en un archivo drive, incluimos el link :
+https://drive.google.com/drive/folders/1gN3evRUCgbCscnGPUYQhqtv0NRqaOMfp?usp=sharing
 
   Para la experimentación se uso una muestra de 1.5 millones de datos generando asi una guía para generar una conclusión de nuestro experimento, del cual podemos ver los siguientes datos:
 + Random Forest = 0.787740
